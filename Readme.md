@@ -1,5 +1,5 @@
 
-I minimal blinky in assembler. 
+A minimal blinky in assembler. 
 
 Implementation contains just a minimal vector table and most code in the _start function.
 
