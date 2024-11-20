@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "blinky_bare_metal_asm",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "blinky_bare_metal_asm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blinky_bare_metal_asm-Debug-d18c40d7020c632435dd.json",
+					"name" : "blinky_bare_metal_asm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/frank/OneDrive/Lehre/RO MPT ES/RO/blinky_bare_metal_asm/build/debug",
+		"source" : "C:/Users/frank/OneDrive/Lehre/RO MPT ES/RO/blinky_bare_metal_asm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

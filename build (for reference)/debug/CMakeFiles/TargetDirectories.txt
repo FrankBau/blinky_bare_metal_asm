@@ -1,0 +1,3 @@
+C:/Users/frank/OneDrive/Lehre/RO MPT ES/RO/blinky_bare_metal_asm/build/debug/CMakeFiles/blinky_bare_metal_asm.dir
+C:/Users/frank/OneDrive/Lehre/RO MPT ES/RO/blinky_bare_metal_asm/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/frank/OneDrive/Lehre/RO MPT ES/RO/blinky_bare_metal_asm/build/debug/CMakeFiles/rebuild_cache.dir

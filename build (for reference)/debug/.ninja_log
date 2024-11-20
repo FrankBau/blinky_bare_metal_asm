@@ -1,0 +1,5 @@
+# ninja log v5
+1	30	7538036322831164	CMakeFiles/blinky_bare_metal_asm.dir/Src/blinky.s.obj	9594e4db8ea50850
+30	95	7538036323142440	blinky_bare_metal_asm.elf	11ef425950abf326
+2	30	7538036733877655	CMakeFiles/blinky_bare_metal_asm.dir/Src/blinky.s.obj	e25715c782391706
+30	98	7538036734262123	blinky_bare_metal_asm.elf	11ef425950abf326
